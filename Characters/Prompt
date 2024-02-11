@@ -1,6 +1,8 @@
 Character Size - Width 512x1080 Height.
 DPM++ 2M Karras
 
+Main Checkpoint = CartoonArcadia
+
 UP = Character has been upscaled
 NU = Character has not been upscaled
 
